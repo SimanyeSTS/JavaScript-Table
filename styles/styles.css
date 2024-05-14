@@ -16,11 +16,28 @@ body{
     align-items: center;
     justify-content: center;
     height: 100dvh;
-    background-color: pink;
+    background-color: cornflowerblue;
 }
 
 #Form{
     height: 50%;
     width: 20%;
     background-color: purple;
+    border-style: groove;
+}
+
+#firstName{
+    padding-inline-start: 38.5%;
+}
+
+#lastName{
+    padding-inline-start: 38.5%;
+}
+
+h4{
+    color: white
+}
+
+[button]{
+    border-style: double;
 }
